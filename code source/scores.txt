@@ -1,0 +1,2 @@
+clement:1000
+guigyat:1000
